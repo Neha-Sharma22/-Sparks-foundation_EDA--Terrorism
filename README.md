@@ -1,4 +1,4 @@
-# -Sparks-foundatons_EDA--Terrorism
+# -Sparks-foundation_EDA--Terrorism
 
 ## Project Name
    -**Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
